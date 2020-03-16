@@ -1,7 +1,7 @@
 # Primer Parcial Lenguaje de Cuarta Generación
 Realizar una aplicación Crud, con las funciones: Create, Read y Update, para la administración de usuarios
 
-##1. Formulario de Crear (Puntos: 1.5)
+## 1. Formulario de Crear (Puntos: 1.5)
 Tener en cuenta en el formulario de crear, se deberá permitir crear usuarios con la siguiente información:
 
 * Nombres
@@ -12,7 +12,7 @@ Tener en cuenta en el formulario de crear, se deberá permitir crear usuarios co
 Nota: El campo contraseña, deberá realizarse mediante el input de tipo "password", y al momento de almacenar en la base de datos, deberá encriptarse en MD5.
 Por defecto, al crear un nuevo usuario, este iniciará con el estado Activo
 
-##2. Formulario de Edición (Puntos: 1.5)
+## 2. Formulario de Edición (Puntos: 1.5)
 En el formulario de edición se deberá solicitar la siguiente información:
 
 * Nombres
@@ -23,7 +23,7 @@ En el formulario de edición se deberá solicitar la siguiente información:
 
 Nota: El campo password, deberá venir vacio, y cuando se envie a guardar la información, se debe validar si la contraseá viene vacia, no se actualiza el campo, y si por el contrario esta lleno, se aplica la nueva contraseña encriptada en md5
 
-##3. Lectura de información (Puntos: 2)
+## 3. Lectura de información (Puntos: 2)
 En la tabla se deberá mostrar la siguiente información:
 
 * ID
